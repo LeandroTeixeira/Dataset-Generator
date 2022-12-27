@@ -1,0 +1,7 @@
+name: C:\Users\Leo\Desktop\Projetos\Dataset-Generator\env
+channels:
+  - defaults
+dependencies:
+  - notebook
+  - pandas
+prefix: C:\Users\Leo\Desktop\Projetos\Dataset-Generator\env
